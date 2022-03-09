@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: HTML, CSS, Javascript, PHP and C.
-- 📝 I'm firmiliar with: C++ and Bash Script.
-- ⚡ Fun fact: Computer Science student from Vancouver Island University.
+- 🌱 I’m currently learning: Javascript, PHP, MySQL and C.
+- 📝 I'm firmiliar with: C++, HTML, CSS and Bash Script.
 - 📀 I use Arch Linux btw.
