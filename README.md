@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Computer Science Student at Vancouver Island University.
+- Computer Science Student at Vancouver Island University
 
 ### Languages ⌨️
 
