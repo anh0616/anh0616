@@ -11,7 +11,6 @@
 ### What I'm Learning 📖
 
 - Python
-- MySQL
 
 ### Tools that I use 🔨
 
