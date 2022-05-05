@@ -6,11 +6,12 @@
 
 - Bash
 - C, C++
-- HTML, CSS, JS and PHP
+- HTML, CSS, JS
 
 ### What I'm Learning 📖
 
 - Python
+- Go
 
 ### Tools that I use 🔨
 
