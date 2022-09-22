@@ -5,13 +5,8 @@
 ### Languages ⌨️
 
 - Bash
-- C, C++
+- C, C++, Python
 - HTML, CSS, JS
-
-### What I'm Learning 📖
-
-- Python
-- Go
 
 ### Tools that I use 🔨
 
